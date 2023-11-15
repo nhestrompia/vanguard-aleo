@@ -24,4 +24,4 @@ for inst in insts:
     if tokens[0] =="div":
         result = True
 
-print("Result:",result)
+print("Result: ",result)
